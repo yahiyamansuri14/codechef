@@ -2,7 +2,7 @@
  using namespace std;
  int arr[1000000]={0};
  int main(){
-     int i,n,a;
+     int n,a;
      cin>>n;
      while(n--){
          cin>>a;
